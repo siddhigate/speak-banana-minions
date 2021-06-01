@@ -82,7 +82,7 @@ button{
     font-size:1.5rem;
     font-family: 'Caveat', cursive;
     
-
+    cursor: pointer;
 }
 .iconarrow{
     
@@ -116,6 +116,7 @@ button{
     text-align: center;
     color:black;
     border-top-right-radius:1rem;
+    
 }
 
 .footer .footer-header{
@@ -139,4 +140,8 @@ button{
 
 .padding-small{
     padding-bottom: 1.5rem;
+}
+
+footer{
+    margin-bottom: 0px;
 }
